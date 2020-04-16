@@ -5,5 +5,4 @@
 备用①：https://www.90pan.com/b1828484
 备用②：https://mail.qq.com/cgi-bin/ftnDownload302?sid=vtZ6XuzyCEDYeSd5&fid=2%2F9496f63f-a3e2-4512-a650-2b75490b0c33&code=ca030677&k=5c6130336e07f0c80bd3786d163605185a550905560004514e000356021b030252531d520603071a51030706040f075553020300303c37440013594344184d5e13610d   
 
-![JAOmSP.png](https://s1.ax1x.com/2020/04/16/JAOmSP.png)
 [![JAOmSP.png](https://s1.ax1x.com/2020/04/16/JAOmSP.png)](https://imgchr.com/i/JAOmSP)

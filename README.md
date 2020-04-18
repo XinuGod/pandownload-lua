@@ -1,5 +1,5 @@
-# pandownload-lua
-我不是度神倒了，官网分享的lua没了，这里开一个储存
+# pandownload-插件
+我不是度神倒了，官网分享的插件都没了，这里开一个储存
 <br>本人确实第一次用github，对源码等不太了解，本内容全为[搬运]
 <br>下载链接:https://f2.oduuu.com/2020/04/85E98657F8ED8BFD-78e369ad2c1dc64f.zip 
 备用①：https://www.90pan.com/b1828484

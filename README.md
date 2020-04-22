@@ -1,7 +1,5 @@
 # pandownload-插件
-
 声明：Fork自 https://github.com/th3Ellen/pandownload-lua
-
 <br>
 Pandownload倒了，官网分享的插件都没了，这里开一个储存
 <br>

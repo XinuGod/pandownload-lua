@@ -1,4 +1,5 @@
 # pandownload-插件
+Fork自 https://github.com/th3Ellen/pandownload-lua
 Pandownload倒了，官网分享的插件都没了，这里开一个储存
 <br>
 本人确实第一次用github，对源码等不太了解，本内容全为[搬运]

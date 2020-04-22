@@ -1,11 +1,14 @@
 # pandownload-插件
-Fork自 https://github.com/th3Ellen/pandownload-lua
+
+声明：Fork自 https://github.com/th3Ellen/pandownload-lua
+
 <br>
 Pandownload倒了，官网分享的插件都没了，这里开一个储存
 <br>
 本人确实第一次用github，对源码等不太了解，本内容全为[搬运]
 <br>
 下载链接:[点我下载](https://f2.oduuu.com/2020/04/85E98657F8ED8BFD-78e369ad2c1dc64f.zip) 
+<br>
 备用链接
 <br>
 备用①：[点我下载](https://www.90pan.com/b1828484)
